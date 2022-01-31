@@ -1,0 +1,26 @@
+
+  
+title: Auto Encoders
+
+meta:
+  - name: keywords
+    content: Artificial Intelligence, Machine Learning, Auto Encoder
+    
+header:
+  title: Machine Learning - Auto Encoder 
+  description: |
+    An introduction on Auto Encoders
+authors:
+  label:
+    position: top
+    text: Authors
+  kind: people
+  content:
+    - name: Atoosa Chegini
+      role: Author
+          link: https://github.com/atoosachegini
+        - link: mailto://atoosachegini1379@gmail.com
+          
+comments:
+  label: false
+  kind: comments
